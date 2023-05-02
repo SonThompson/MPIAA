@@ -1,0 +1,99 @@
+﻿  Graph.cpp
+  PRM.cpp
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(18,56): error C2065: M_PI: необъявленный идентификатор
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(20,50): error C2065: M_PI: необъявленный идентификатор
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(37,57): error C2653: cv: не является именем класса или пространства имен
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(37,65): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(37,65): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "map"
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(37,65): error C3646: map: неизвестный спецификатор переопределения
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(37,68): error C2059: синтаксическая ошибка: )
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(39,9): error C2065: map: необъявленный идентификатор
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(39,16): error C2653: cv: не является именем класса или пространства имен
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(39,20): error C2065: Vec3b: необъявленный идентификатор
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(39,34): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(39,8): error C2109: для индекса требуется массив или указатель
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(40,9): error C2065: map: необъявленный идентификатор
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(40,16): error C2653: cv: не является именем класса или пространства имен
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(40,20): error C2065: Vec3b: необъявленный идентификатор
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(40,34): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(40,1): error C2109: для индекса требуется массив или указатель
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(41,9): error C2065: map: необъявленный идентификатор
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(41,16): error C2653: cv: не является именем класса или пространства имен
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(41,20): error C2065: Vec3b: необъявленный идентификатор
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(41,34): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(41,1): error C2109: для индекса требуется массив или указатель
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(49,86): error C2653: cv: не является именем класса или пространства имен
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(49,94): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(49,94): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "map"
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(49,94): error C3646: map: неизвестный спецификатор переопределения
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(49,99): error C2062: тип "int" не требуется
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(49,112): error C2059: синтаксическая ошибка: )
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(49,114): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(49,114): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(187,5): error C2653: cv: не является именем класса или пространства имен
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(187,9): error C2065: Mat: необъявленный идентификатор
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(187,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "dismap"
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(187,13): error C2065: dismap: необъявленный идентификатор
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(187,22): error C2653: cv: не является именем класса или пространства имен
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(187,26): error C3861: imread: идентификатор не найден
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(190,21): error C2065: dismap: необъявленный идентификатор
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(191,20): error C2065: dismap: необъявленный идентификатор
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(216,14): error C2039: "random_device": не является членом "std".
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\queue(26,1): message : см. объявление "std"
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(216,28): error C2065: random_device: необъявленный идентификатор
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(216,28): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "rd"
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(216,28): error C2065: rd: необъявленный идентификатор
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(217,14): error C2039: "mt19937": не является членом "std".
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\queue(26,1): message : см. объявление "std"
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(217,22): error C2065: mt19937: необъявленный идентификатор
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(217,22): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "gen"
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(217,26): error C3861: rd: идентификатор не найден
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(217,22): error C3861: gen: идентификатор не найден
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(218,14): error C2039: "uniform_int_distribution": не является членом "std".
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\queue(26,1): message : см. объявление "std"
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(218,38): error C2065: uniform_int_distribution: необъявленный идентификатор
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(218,39): error C2059: синтаксическая ошибка: >
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(224,31): error C2065: gen: необъявленный идентификатор
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(224,27): error C3861: dis: идентификатор не найден
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(228,33): error C2065: dismap: необъявленный идентификатор
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(251,55): error C2065: dismap: необъявленный идентификатор
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(253,17): error C2653: cv: не является именем класса или пространства имен
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(253,26): error C2065: dismap: необъявленный идентификатор
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(253,34): error C2653: cv: не является именем класса или пространства имен
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(253,38): error C3861: Point: идентификатор не найден
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(254,21): error C2653: cv: не является именем класса или пространства имен
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(254,25): error C3861: Point: идентификатор не найден
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(255,21): error C2653: cv: не является именем класса или пространства имен
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(255,25): error C3861: Scalar: идентификатор не найден
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(253,21): error C3861: line: идентификатор не найден
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(291,13): error C2653: cv: не является именем класса или пространства имен
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(291,22): error C2065: dismap: необъявленный идентификатор
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(291,30): error C2653: cv: не является именем класса или пространства имен
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(291,34): error C3861: Point: идентификатор не найден
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(292,17): error C2653: cv: не является именем класса или пространства имен
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(292,21): error C3861: Point: идентификатор не найден
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(293,17): error C2653: cv: не является именем класса или пространства имен
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(293,21): error C3861: Scalar: идентификатор не найден
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(291,17): error C3861: line: идентификатор не найден
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(301,13): error C2065: dismap: необъявленный идентификатор
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(301,23): error C2653: cv: не является именем класса или пространства имен
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(301,27): error C2065: Vec3b: необъявленный идентификатор
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(301,48): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(301,69): error C2109: для индекса требуется массив или указатель
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(302,13): error C2065: dismap: необъявленный идентификатор
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(302,23): error C2653: cv: не является именем класса или пространства имен
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(302,27): error C2065: Vec3b: необъявленный идентификатор
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(302,48): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(302,69): error C2109: для индекса требуется массив или указатель
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(303,13): error C2065: dismap: необъявленный идентификатор
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(303,23): error C2653: cv: не является именем класса или пространства имен
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(303,27): error C2065: Vec3b: необъявленный идентификатор
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(303,48): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(303,69): error C2109: для индекса требуется массив или указатель
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(311,5): error C2653: cv: не является именем класса или пространства имен
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(311,26): error C2065: dismap: необъявленный идентификатор
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(311,9): error C3861: imshow: идентификатор не найден
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(312,5): error C2653: cv: не является именем класса или пространства имен
+C:\Users\SonTi\source\repos\MPIAA RGZ\MPIAA RGZ\PRM.cpp(312,9): error C3861: waitKey: идентификатор не найден
+  Source.cpp
+  Создание кода...
