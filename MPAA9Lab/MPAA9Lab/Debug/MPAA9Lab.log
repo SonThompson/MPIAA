@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\voron\source\repos\MPAA9Lab\MPAA9Lab\main.cpp(10,13): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\voron\source\repos\MPAA9Lab\MPAA9Lab\main.cpp(12,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\voron\source\repos\MPAA9Lab\MPAA9Lab\main.cpp(35,14): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\voron\source\repos\MPAA9Lab\MPAA9Lab\main.cpp(46,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  MPAA9Lab.vcxproj -> C:\Users\voron\source\repos\MPAA9Lab\Debug\MPAA9Lab.exe
